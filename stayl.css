@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* .ust{
+    display: flex;
+    justify-content: space-between
+}
+
+.sag{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 80px;
+}
+
+.ust img{
+     margin-left: 80px;
+} */
+
+.orta{
+    width: 100%;
+    height: 450px;
+    background-color: #292d33;
+}
+
+.orta img{
+    height: 293px;
+    width: 220px;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+.orta-2{
+    width: 100%;
+    height: 200px;
+   background-color: orangered;
+}
+
+.orta-2 img{
+    height: 293px;
+    width: 220px;
+    display: flex;
+    justify-content: start;
+}
+
+.orta-3{
+    width: 100%;
+    height: 450px;
+   background-color: #292d33;
+}
+
+.orta-3 img{
+    height: 293px;
+    width: 220px;
+    display: flex;
+    justify-content: start;
+}
+
+.alt-1{
+    width: 100%;
+    height: 250px;
+    background-color: grey;
+}
+
+.alt-1 p{
+    margin: auto;
+}
+
+.alt-2{
+    width: 100%;
+    height: 250px;
+    background-color: grey;
+}
+
+.alt-2 p{
+    margin: auto;
+}
